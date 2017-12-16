@@ -1,15 +1,32 @@
 *{margin: 0; padding: 0; font-size: 100%; box-sizing: border-box; font-family: sans-serif;list-style: none; text-decoration: none; border:none;}
 img{max-width: 100%;}
 .topo{background-image:url(../img/bg-topo.jpg); background-size: cover; background-position: center center; height: 80vh;}
-.content{max-width: 1220px; margin: 0 auto; padding:0px 70px; color:#fff;}
-.topo-menu{padding: 30px 0px; display: flex; justify-content:space-between; align-content: center; align-items: center; border-bottom: 2px solid #4c6d6d}
+.content{max-width: 1220px; margin: 0 auto; padding:0px 70px;}
+.topo-menu{padding: 30px 0px; display: flex; justify-content:space-between; align-content: center; align-items: center; border-bottom: 2px solid #4c6d6d;}
+.logo{color:#fff; font-size: 1.2em;}
 .menu ul{display: flex;}
 .menu li{ font-size: 0.78em; font-weight:bold; margin-left: 20px;}
 .menu li a{color:#bdc7c7;padding:10px;}
 .menu li a:hover{color:#fff;}
 .menu .get-start{background: #6a8081; color: #fff; border-radius:5px;}
 .menu .get-start:hover{color:#bdc7c7;}
-.headline{display: flex; flex-direction: column; height: 68vh; width: 50%; justify-content: center; align-content: center; border: solid 1px black;}
+.headline{display: flex; flex-direction: column; height: 68vh; width: 50%; justify-content: center; align-content: center; color:#fff;}
 .headline h2{font-size: 1.8em; margin-bottom: 10px;}
 .headline p{line-height: 25px;}
 .headline-btn{width: 40%; background: #6fb048; color:#fff; padding: 15px; font-size: 0.8em; border-radius:3px; font-weight:bold; margin-top: 20px;}
+.heading{display: flex; margin: 0 auto; max-width: 1220px; text-align: center; padding-top:95px;}
+.heading h2{color:#0f5f5c; font-size: 2em; margin-bottom: 20px;}
+.line{width: 10%; height: 2px; background: #6fb048; margin: 0 auto; margin-bottom: 20px;}
+.heading p{color:#83a7a5; font-size: 1em; margin-bottom: 5px;}
+.article-heading{display: flex; justify-content: space-between; margin-top: 70px;}
+.heading-box{padding: 0px 25px;}
+.heading-box h3{color:#0f5f5c; margin: 20px 0px;}
+.heading-box p{font-size:0.9em; line-height:25px;}
+.line-separate{margin: 30px 0px;}
+.others-reading{display: flex; justify-content: space-between;}
+.other-header{display: flex; align-content: center; align-items: center; margin-bottom: 20px;}
+.other-header img{margin-right: 20px;}
+.other-header h3{color:#0f5f5c;}
+.box-reading{margin-left: 50px;}
+.others-box{margin-bottom: 55px;}
+.others-box p{text-align: left; font-size: 0.9em;}
