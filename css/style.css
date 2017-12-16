@@ -39,3 +39,9 @@ img{max-width: 100%;}
 .info-responsive-content{width: 50%; text-align: left; margin-top: 155px;}
 .confirm{display: flex; align-items: center;margin:15px 0px;}
 .confirm img{margin-right: 20px;}
+.depoiment-content{margin-top: 140px; margin-bottom: 140px; display: flex; justify-content:space-around; align-content: center; align-items: center;}
+.depoimento{width: 50%; padding-right: 50px;}
+.depoimento p{color:#83a7a5; line-height: 35px; font-size: 1.4em; font-weight: 100;}
+.depoimento .nome-depo {margin-top:35px; color:#6fb048; font-size: 1em; }
+.depoimento .cargo-depo{font-size: 1em;}
+.depoimento-img img{border-radius:150%;}
