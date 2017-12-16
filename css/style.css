@@ -1,6 +1,6 @@
-*{margin: 0; padding: 0; font-size: 100%; box-sizing: border-box; font-family: sans-serif;list-style: none; text-decoration: none; }
+*{margin: 0; padding: 0; font-size: 100%; box-sizing: border-box; font-family: sans-serif;list-style: none; text-decoration: none; border:none;}
 img{max-width: 100%;}
-.topo{background-image:url(../img/bg-topo.jpg); background-size: cover; background-position: center center; height: 60vh;}
+.topo{background-image:url(../img/bg-topo.jpg); background-size: cover; background-position: center center; height: 80vh;}
 .content{max-width: 1220px; margin: 0 auto; padding:0px 70px; color:#fff;}
 .topo-menu{padding: 30px 0px; display: flex; justify-content:space-between; align-content: center; align-items: center; border-bottom: 2px solid #4c6d6d}
 .menu ul{display: flex;}
@@ -9,3 +9,7 @@ img{max-width: 100%;}
 .menu li a:hover{color:#fff;}
 .menu .get-start{background: #6a8081; color: #fff; border-radius:5px;}
 .menu .get-start:hover{color:#bdc7c7;}
+.headline{display: flex; flex-direction: column; height: 68vh; width: 50%; justify-content: center; align-content: center; border: solid 1px black;}
+.headline h2{font-size: 1.8em; margin-bottom: 10px;}
+.headline p{line-height: 25px;}
+.headline-btn{width: 40%; background: #6fb048; color:#fff; padding: 15px; font-size: 0.8em; border-radius:3px; font-weight:bold; margin-top: 20px;}
