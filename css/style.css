@@ -51,3 +51,20 @@ img{max-width: 100%;}
 .details-txt{width: 40%;}
 .details-cx h2{color:#0f5f5c; font-size:1.5em; margin-bottom: 25px;}
 .details-cx p{color:#8bacaa; line-height: 25px; font-size: 0.8em;}
+.prices-plan h2{text-align: center; margin-top: 75px; color:#0f5f5c; font-size: 2em; margin-bottom: 20px;}
+.prices-plan p{color:#83a7a5; text-align: center}
+.prices-box{display: flex; justify-content: center;}
+.box-price-info{text-align: center; margin: 40px 0px; border: solid 1px #c1d3d2; padding: 50px;}
+.box-price-info h3{color:#6fb048; margin-bottom: 30px;}
+.box-price-info span{font-size: 3em; font-weight:bold; color:#0f5f5c;}
+.box-price-info .month{font-size: 0.9em; margin-bottom: 25px;}
+.box-price-info p {margin-bottom: 17px; color:#83a7a5;}
+.box-price-info button{padding: 17px 40px; border-radius:5px; background: #83a7a5; color: #fff; font-weight: bold; margin-top: 25px;}
+.info-plan h2{font-size: 1.2em;}
+.plan-info-box{display: flex; justify-content: space-around;}
+
+.need-help{text-align: center; margin-top: 55px; margin-bottom: 90px;}
+.need-help img{margin-bottom: 17px;}
+.need-help h2{color:#6fb048; font-size: 2em; margin-bottom: 20px;}
+.need-help p{margin-bottom:10px; color:#83a7a5;}
+.need-help .email{font-size: 1.5em; color:#0f5f5c; margin-top: 85px;}
