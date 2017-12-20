@@ -45,3 +45,9 @@ img{max-width: 100%;}
 .depoimento .nome-depo {margin-top:35px; color:#6fb048; font-size: 1em; }
 .depoimento .cargo-depo{font-size: 1em;}
 .depoimento-img img{border-radius:150%;}
+
+.details{background: #eef1ec; background-image: url(../img/map.png); height: 500px; background-repeat: no-repeat; background-position: right;}
+.details-cx{padding-top: 175px; height: 100%; display: flex; justify-content: flex-start; flex-direction: column;}
+.details-txt{width: 40%;}
+.details-cx h2{color:#0f5f5c; font-size:1.5em; margin-bottom: 25px;}
+.details-cx p{color:#8bacaa; line-height: 25px; font-size: 0.8em;}
