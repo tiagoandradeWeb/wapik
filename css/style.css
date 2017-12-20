@@ -68,3 +68,8 @@ img{max-width: 100%;}
 .need-help h2{color:#6fb048; font-size: 2em; margin-bottom: 20px;}
 .need-help p{margin-bottom:10px; color:#83a7a5;}
 .need-help .email{font-size: 1.5em; color:#0f5f5c; margin-top: 85px;}
+.down-now{background-image: url(../img/bg-download.png); height: 200px; padding-top: 75px;}
+.down-now-box{display: flex; justify-content:space-around;}
+.down-now-box h3{color:#0f5f5c; font-size: 2em; font-weight: lighter; margin-bottom: 10px;}
+.down-now-box p{color:#83a7a5;}
+.down-now-box button{padding: 15px 23px; background: #6fb048; color:#fff; border-radius:5px;}
